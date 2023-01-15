@@ -1,0 +1,58 @@
+h3,h4{
+    color: #447D58;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.bluecolor{
+    color: blue;
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 70px;
+    min-width: 60px;
+    max-width: 80px;
+    box-shadow:10px,10px;
+}
+#checkspl{
+    color: blue;
+    
+}
+div>p{
+    color: blue;
+}
+div a{
+    color:green;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:lightblue;
+}
+#form{
+    background-color:antiquewhite;
+    color: darkred;
+    border: 1.5px solid black;
+    padding: 20px;
+    width: 500px;
+    height: 235px;
+    border-radius: 20px;
+}
+.image{
+    border-radius: 10px;
+
+}
+p{
+    line-height: 1.5em;
+}
+h1{
+    border: 1px solid black;
+    background-color:antiquewhite;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
